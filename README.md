@@ -1,0 +1,2 @@
+# FashionShopManager
+Winform-fashion-manager
