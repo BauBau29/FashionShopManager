@@ -30,3 +30,31 @@ cd Source/FashionShopManager
 
 # Restore database
 # Chạy file Database/script.sql trong SQL Server
+ Cấu trúc Repository đầy đủ:
+FashionShop-Manager/
+│
+├── README.md                    # Mô tả dự án
+├── .gitignore                   # Ignore file không cần
+├── LICENSE                      # Giấy phép (nếu cần)
+│
+├── Database/
+│   ├── script.sql              # Script tạo database
+│   ├── data-sample.sql         # Dữ liệu mẫu
+│   └── ERD.png                 # Sơ đồ ERD
+│
+├── Documents/
+│   ├── BaoCao.docx
+│   ├── Slide-ThuyetTrinh.pptx
+│   └── Huong-dan-cai-dat.pdf
+│
+├── Source/
+│   └── FashionShopManager/     # Solution folder
+│       ├── FashionShopManager.sln
+│       ├── DAL/
+│       ├── BLL/
+│       ├── DTO/
+│       ├── GUI/
+│       └── Resources/
+│
+└── Setup/
+    └── FashionShop-
