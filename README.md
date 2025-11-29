@@ -6,11 +6,6 @@ Phần mềm quản lý cửa hàng thời trang, đồ may mặc
 Ứng dụng quản lý cửa hàng thời trang được xây dựng bằng WinForm C# và SQL Server, 
 hỗ trợ quản lý sản phẩm, bán hàng, nhập kho, báo cáo doanh thu.
 
-## 👥 Thành viên nhóm
-- *TV1* - Database & DAL Layer
-- *TV2* - Business Logic & Forms Danh mục  
-- *TV3* - Forms Nghiệp vụ & Báo cáo
-
 ## 🚀 Chức năng chính
 -  Đăng nhập phân quyền
 -  Quản lý sản phẩm, khách hàng, nhân viên
@@ -24,13 +19,7 @@ hỗ trợ quản lý sản phẩm, bán hàng, nhập kho, báo cáo doanh thu.
 # Clone repository
 git clone https://github.com/your-username/FashionShop-Manager.git
 
-# Mở solution
-cd Source/FashionShopManager
-# Mở file FashionShopManager.sln bằng Visual Studio
-
-# Restore database
-# Chạy file Database/script.sql trong SQL Server
- Cấu trúc Repository đầy đủ:
+ Cấu trúc Repository :
 FashionShop-Manager/
 │
 ├── README.md                    # Mô tả dự án
